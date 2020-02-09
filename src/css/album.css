@@ -2,6 +2,10 @@
   --jumbotron-padding-y: 3rem;
 }
 
+.logo {
+  padding: 1em;
+}
+
 .jumbotron {
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
